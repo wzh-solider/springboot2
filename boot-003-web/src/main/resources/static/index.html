@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta charset="UTF-8">
+        <title>Welcome Page</title>
+    </head>
+    <body>
+        <h1>欢迎页面</h1>
+
+        <form action="http://localhost:8080/user" method="post">
+            <input type="hidden" name="_m" value="DELETE">
+            <input type="submit" value="提交">
+        </form>
+
+        <a href="http://localhost:8080/param-test.html">测试页面</a>
+    </body>
+</html>

@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+spring:
+  servlet.multipart:
+    max-file-size: 10MB
+  banner.image:
+    width: 50
+    height: 25
+    location: classpath:head.jpg
+
+# 对Car类进行赋值
+mycar:
+  brand: BYD
+  price: 100000
+
