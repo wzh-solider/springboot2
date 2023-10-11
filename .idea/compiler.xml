@@ -8,6 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="boot-001-helloworld" />
+        <module name="boot-007-web-mybatis-plus" />
+        <module name="boot-005-web-data" />
+        <module name="boot-006-web-mybatis" />
         <module name="boot-004-web-admin" />
         <module name="boot-003-web" />
         <module name="boot-002-helloworld" />
@@ -20,6 +23,9 @@
       <module name="boot-002-helloworld" options="-parameters" />
       <module name="boot-003-web" options="-parameters" />
       <module name="boot-004-web-admin" options="-parameters" />
+      <module name="boot-005-web-data" options="-parameters" />
+      <module name="boot-006-web-mybatis" options="-parameters" />
+      <module name="boot-007-web-mybatis-plus" options="-parameters" />
     </option>
   </component>
 </project>

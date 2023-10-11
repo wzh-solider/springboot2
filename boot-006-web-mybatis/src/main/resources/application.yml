@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/spring6
+    username: root
+    password: wzh7230610
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+#  mapper-locations: classpath:com.atguigu.boot.mapper/*.xml
+  type-aliases-package: com.atguigu.boot.pojo
+#  config-location: classpath:mybatis-config.xml

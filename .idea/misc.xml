@@ -8,6 +8,9 @@
         <option value="$PROJECT_DIR$/boot-002-helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/boot-003-web/pom.xml" />
         <option value="$PROJECT_DIR$/boot-004-web-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-006-web-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-005-web-data/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-007-web-mybatis-plus/pom.xml" />
       </list>
     </option>
   </component>
