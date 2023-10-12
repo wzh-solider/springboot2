@@ -4,3 +4,31 @@ spring:
     url: jdbc:mysql://localhost:3306/spring6
     username: root
     password: wzh7230610
+  boot:
+    admin:
+      client:
+        url: http://localhost:8888
+        username: admin
+        password: 123456
+
+management:
+  info:
+    env:
+      enabled: true # 开启info信息
+  endpoints:
+    enabled-by-default: true  # 开启所有端点
+    web:
+      exposure:
+        include: "*"  # 开启所有端点的访问
+  endpoint:
+    health:
+      show-details: always # 显示详细健康信息
+
+
+# 定制info信息
+info:
+  app-name: boot-007-web-mybatis-plus
+  version: 1.0.0
+  maven-project-name: @project.artifactId@
+  maven-project-version: @project.version@
+

@@ -11,7 +11,9 @@
         <module name="boot-007-web-mybatis-plus" />
         <module name="boot-005-web-data" />
         <module name="boot-006-web-mybatis" />
+        <module name="boot-008-adminserver" />
         <module name="boot-004-web-admin" />
+        <module name="boot-009-features-profile" />
         <module name="boot-003-web" />
         <module name="boot-002-helloworld" />
       </profile>
@@ -26,6 +28,8 @@
       <module name="boot-005-web-data" options="-parameters" />
       <module name="boot-006-web-mybatis" options="-parameters" />
       <module name="boot-007-web-mybatis-plus" options="-parameters" />
+      <module name="boot-008-adminserver" options="-parameters" />
+      <module name="boot-009-features-profile" options="-parameters" />
     </option>
   </component>
 </project>

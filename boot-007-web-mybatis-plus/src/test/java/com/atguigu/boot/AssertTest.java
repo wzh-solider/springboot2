@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * @since 1.0
  */
 @DisplayName("测试断言机制")
-@SpringBootTest
+// @SpringBootTest
 public class AssertTest {
 
     public int cal(int a, int b) {

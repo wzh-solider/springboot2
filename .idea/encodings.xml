@@ -9,5 +9,9 @@
     <file url="file://$PROJECT_DIR$/boot-005-web-data/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-006-web-mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-007-web-mybatis-plus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-008-adminserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-009-features-profile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-009-features-profile/src/main/resources/application-prod.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-009-features-profile/src/main/resources/application.yml" charset="UTF-8" />
   </component>
 </project>

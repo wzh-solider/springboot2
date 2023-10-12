@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/boot-006-web-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/boot-005-web-data/pom.xml" />
         <option value="$PROJECT_DIR$/boot-007-web-mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-008-adminserver/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-009-features-profile/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,11 @@
+#person:
+#  name: "张三"
+spring:
+  profiles:
+    active: myprod
+    group:
+      myprod:
+        - prod
+        - ppd
+      mytest:
+        - test
